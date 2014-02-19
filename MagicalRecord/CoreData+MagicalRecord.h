@@ -8,6 +8,8 @@
 //        #error MagicalRecord now requires ARC to be enabled
 //    #endif
 
+    #define MR_SHORTHAND 1
+
     #import <CoreFoundation/CoreFoundation.h>
     #import <CoreData/CoreData.h>
 
